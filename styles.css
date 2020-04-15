@@ -24,4 +24,6 @@
 .stroke{
     stroke-linecap: butt;
     stroke-linejoin: miter;
+    stroke-dasharray: 2;
+    stroke-dashoffset: 100;
 }
