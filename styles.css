@@ -6,3 +6,11 @@
     stroke: black;
     stroke-width: 3px;
 }
+
+.no-fill{
+    fill: none;
+}
+
+.fill{
+    fill: grey;
+}
