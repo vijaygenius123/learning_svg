@@ -20,3 +20,8 @@
     font-style: italic;
     fill: orange;   
 }
+
+.stroke{
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+}
