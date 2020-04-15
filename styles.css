@@ -14,3 +14,9 @@
 .fill{
     fill: grey;
 }
+
+.text{
+    font-family: sans-serif;
+    font-style: italic;
+    fill: orange;   
+}
